@@ -37,7 +37,3 @@ This repository contains my submission for the Data Science Intern assignment at
    jupyter notebook
 5. Review PDF reports for insights and clustering results.
 
-
-
-License
-
