@@ -36,3 +36,15 @@ This repository contains my submission for the Data Science Intern assignment at
 4. Open the Jupyter notebooks to explore the code:
    jupyter notebook
 5. Review PDF reports for insights and clustering results.
+
+
+
+License
+---
+
+### **Push to GitHub**
+Once the local folder is ready:
+1. Initialize a Git repository in the folder:
+   ```bash
+   git init
+git add .
