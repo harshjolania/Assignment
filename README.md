@@ -40,11 +40,4 @@ This repository contains my submission for the Data Science Intern assignment at
 
 
 License
----
 
-### **Push to GitHub**
-Once the local folder is ready:
-1. Initialize a Git repository in the folder:
-   ```bash
-   git init
-git add .
