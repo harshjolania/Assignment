@@ -31,7 +31,8 @@ This repository contains my submission for the Data Science Intern assignment at
    ```bash
    git clone https://github.com/harshjolania/Assignment .
 2. Navigate to the repository folder
+   ```bash
     cd Assignment
-3. Open the Jupyter notebooks to explore the code:
+4. Open the Jupyter notebooks to explore the code:
    jupyter notebook
-4. Review PDF reports for insights and clustering results.
+5. Review PDF reports for insights and clustering results.
